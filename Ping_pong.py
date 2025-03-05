@@ -1,4 +1,4 @@
-# Making a ping pong game
+# Making a ping pong game using Python
 
 import os  
 import turtle  
